@@ -1,6 +1,6 @@
-##React_Native_Seacrh_ByName
-##React Native - Seacrh By Name
-##the project is in the AwesomeProject folder
+#React_Native_Seacrh_ByName :
+
+the project is in the AwesomeProject folder
 
 #### Create By Mukri Setiawan Baguna :love_letter: _setiawanmukri@gmail.com_
 
